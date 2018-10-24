@@ -2,8 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c86dc5fe-5f42-402e-abc9-02e0dc2c12f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/biology.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/england-great-britain-523x700.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/envelope.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/figure skating.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/germany.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ice-skate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/internet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landscape-4500x3000-mountains-winter-forest-clouds-microsoft-surface-16203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laptop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/npm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/open-book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photo_2018-09-19_01-21-08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plans.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/responsive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/school.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skype.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/smartphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snowboarding.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/visual-studio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webstorm-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -83,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/Computer.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="217">
-              <caret line="122" column="29" lean-forward="true" selection-start-line="122" selection-start-column="29" selection-end-line="122" selection-end-column="29" />
+              <caret line="122" column="29" selection-start-line="122" selection-start-column="29" selection-end-line="122" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -211,15 +237,15 @@
       <workItem from="1540065075432" duration="6510000" />
       <workItem from="1540119713207" duration="17704000" />
       <workItem from="1540401703150" duration="2624000" />
-      <workItem from="1540404352394" duration="596000" />
+      <workItem from="1540404352394" duration="929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43436000" />
+    <option name="totallyTimeSpent" value="43769000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49785408" visible="true" weight="0.20792079" />
@@ -293,7 +319,7 @@
     <entry file="file://$PROJECT_DIR$/Computer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
-          <caret line="122" column="29" lean-forward="true" selection-start-line="122" selection-start-column="29" selection-end-line="122" selection-end-column="29" />
+          <caret line="122" column="29" selection-start-line="122" selection-start-column="29" selection-end-line="122" selection-end-column="29" />
         </state>
       </provider>
     </entry>
